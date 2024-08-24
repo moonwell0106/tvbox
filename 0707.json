@@ -1,6 +1,10 @@
 {
   "urls": [
     {
+      "url": "./my.json",
+      "name": "高天流云 my"
+    },
+    {
       "url": "./0821.json",
       "name": "高天流云 No.1"
     },
