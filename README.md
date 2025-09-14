@@ -43,7 +43,7 @@ OK影视、TVBox、猫影视配置文件。所有资源均来自于各路大神�
 
 V1.1.3版本以上
 
-`github://Token@github.com/qist/tvbox/dist/index.js.md5`
+`github://Token@github.com/xxxxx/tvbox/dist/index.js.md5`
 
 改动
 
@@ -53,7 +53,7 @@ V1.1.3版本以上
 
 V1.1.2版本以下
 
-`github://Token@gitee.com/qist/tvbox/js/open_config.json`
+`github://Token@gitee.com/xxxxx/tvbox/js/open_config.json`
 
 1. APP推荐:
 
@@ -101,9 +101,11 @@ V1.1.2版本以下
 
 （14）github代理地址： `https://github.moeyy.xyz https://mirror.ghproxy.com/ https://gh-proxy.com https://ghproxy.net` 选择一个速度快使用
 
-（15） 还可以使用域名: `https://qist.tycng.com/jsm.json` cloudflare Pages 构建
+（15） 还可以使用域名: `https://qist.ugigc.dpdns.org/jsm.json` cloudflare Pages 构建
+ 
+（16） 添加潇洒 接口： https://raw.githubusercontent.com/qist/tvbox/refs/heads/master/xiaosa/api.json 或者 https://qist.ugigc.dpdns.org/xiaosa/api.json
 
-4. token.json格式说明：
+1. token.json格式说明：
 
 模板文件json/tokentemplate.json
 
